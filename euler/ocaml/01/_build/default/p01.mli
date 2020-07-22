@@ -1,0 +1,1 @@
+val sum_multiples: int -> int
